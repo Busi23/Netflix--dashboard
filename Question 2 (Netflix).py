@@ -5,7 +5,7 @@ import plotly.express as px
 import pandas as pd 
 
 # Loading the Netflix dataset
-netflix = pd.read_csv("C:/Users/busin/OneDrive/Desktop/School/Data manipulation/netflix_titles.csv")
+netflix = pd.read_csv("C:/Users/b/OneDrive/Desktop/School/Data manipulation/netflix_titles.csv")
 
 # Extracting the years for dropdown filter 
 year_options = [{'label': str(year), 'value': year} for year in sorted(netflix['release_year'].dropna().unique())]
