@@ -3,7 +3,7 @@ import dash
 from dash import dcc, html, Input, Output  
 import plotly.express as px 
 import pandas as pd 
-
+import os
 # Loading the Netflix dataset
 netflix = pd.read_csv("https://raw.githubusercontent.com/Busi23/Netflix--dashboard/refs/heads/main/netflix_titles.csv")
 
@@ -205,4 +205,5 @@ def update_graphs(selected_year, selected_type):
 
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(host="0.0.0.0", port=port)
