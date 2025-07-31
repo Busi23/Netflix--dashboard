@@ -18,12 +18,36 @@ If it doesn't load, you're welcome to:
 - Plotly Express
 - Pandas
 - VS Code
+##Screenshots
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Running the Project Locally
 
-1. Clone the repository:
-   ```bash
+1. Open your terminal or command prompt.
 
-2. pip install -r requirements.txt
-3. python app.py
-4. http://127.0.0.1:8050/
+2. Clone the repository by typing this command and pressing Enter:
+git clone https://github.com/Busi23/Netflix--dashboard.git
+
+3. Change into the project folder:
+cd Netflix--dashboard
+
+4. Install the required packages:
+pip install -r requirements.txt
+
+5. Run the app:
+python app.py
+
+6. Open your web browser and go to:
+http://127.0.0.1:8050/
+
