@@ -2,6 +2,13 @@
 Creating a dashboard based on Netflix's content lib
 This is an interactive dashboard project that visualizes and explores trends in Netflix titles. It was built using Python, Dash, and Plotly Express.
 
+## 📊 Project Report
+
+For a detailed breakdown of the dashboard, visualizations, tools used, and insights:
+
+📄 [View Full Report (PDF)](Netflix-Report.pdf)
+
+
 ## Live Demo
 
 This project is currently hosted on a free platform, which means the live version may take a few seconds to load or be temporarily unavailable.  
