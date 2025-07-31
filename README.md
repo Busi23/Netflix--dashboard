@@ -18,17 +18,29 @@ If it doesn't load, you're welcome to:
 - Plotly Express
 - Pandas
 - VS Code
-##Screenshots
 
+## Overview of Dashboard Screenshots
 
+Overview part 1:  
+![Dashboard overview p1](Overview%20of%20dashboard%20p1.png)
 
+Overview part 2:  
+![Dashboard overview p2](Overview%20of%20dashboard%20p2.png)
 
+---
 
+## Dashboard Filters Overview
 
+### TV Show Filter - Part 1  
+![Dashboard TV filter p1](Dashboard%20with%20tv%20show%20filter%20p1.png)
 
+### TV Show Filter - Part 2  
+![Dashboard TV filter p2](Dashboard%20with%20tv%20filter%20p2.png)
 
+---
 
-
+### Movie Filter  
+![Dashboard movie filter](Dashboard%20with%20movie%20filter.png)
 
 
 
